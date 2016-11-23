@@ -2,7 +2,7 @@
 // @name         LearnNoGifs
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Learn without distracting gifs in
+// @description  Learn without distracting gifs
 // @author       You
 // @match        *learn.co/*
 // @grant        none
